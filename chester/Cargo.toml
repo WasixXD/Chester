@@ -1,0 +1,18 @@
+[package]
+
+name = "chester"
+version = "0.1.0"
+edition = "2021"
+description = "A self-host git like"
+license = "MIT"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.2.7", features = ["derive"] }
+reqwest = { version = "0.11", features = ["blocking", "multipart"] }
+tokio = { version = "1", features = ["full"] }
+comfy-table = "6.1.4"
+zip-extract = "0.1.2"
+colored = "2.0.0"
