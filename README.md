@@ -17,8 +17,7 @@ Chester is a project that aims to provide a self-hosted application similar to G
 - [ x ] User can push the commit to the server
 - [ x ] User can pull individually commits
 
-# How it works? 💼
-See dedicated `README` in each folder
+
 
 # How to install 🚀
 - Install the dedicated server
@@ -39,8 +38,7 @@ $ cargo install chester
 $ chester --help
 ```
 
-# How to use 👷
-See dedicated `README` in each folder
+
 
 # Demo
 ![image](https://github.com/WasixXD/Chester/assets/66091116/3036f1b9-c8c5-4051-87d1-31923b982efa)
