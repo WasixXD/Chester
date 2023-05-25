@@ -49,4 +49,5 @@ See dedicated `README` in each folder
 
 ![image](https://github.com/WasixXD/Chester/assets/66091116/07de2f04-55fd-4e97-8b5a-30910508f639)
 
+![image](https://github.com/WasixXD/Chester/assets/66091116/b3976d44-838b-4620-8b11-b4b258ac2840)
 
